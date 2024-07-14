@@ -1,5 +1,5 @@
 # Evaluating-the-Efficiency-of-Retail-Stores-in-a-Supermarket-Chain-using-DEA-in-R
-This project involves using Data Envelopment Analysis (DEA) in R to evaluate and compare the operational efficiency of retail stores within a supermarket chain.
+This project utilizes Data Envelopment Analysis (DEA) in R to evaluate and compare the operational efficiency of retail stores within a supermarket chain.
 
 A supermarket chain operates 10 retail stores across various regions. The management seeks to assess the efficiency of these stores to identify best practices and areas for improvement. Data Envelopment Analysis (DEA) is used to measure the efficiency of each store based on their ability to utilize resources effectively to generate revenue and achieve high customer satisfaction.
 
